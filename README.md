@@ -8,5 +8,6 @@ Agent 2: Test Generator -> It will generate the test cases in python for the ide
 Agent 3: Test Executor -> It will execute the tests by pushing the random data in those tests.
 
 
-Agent 4: Will store the test report and email if required.
+Agent 4: Test Reporter -> It will store the test report and email if required.
+
 
